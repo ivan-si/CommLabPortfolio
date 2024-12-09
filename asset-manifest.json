@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ivan-si/CommLabPortfolio/static/css/main.49ec3718.css",
+    "main.js": "/ivan-si/CommLabPortfolio/static/js/main.3bd414db.js",
+    "static/js/453.5626c062.chunk.js": "/ivan-si/CommLabPortfolio/static/js/453.5626c062.chunk.js",
+    "index.html": "/ivan-si/CommLabPortfolio/index.html",
+    "main.49ec3718.css.map": "/ivan-si/CommLabPortfolio/static/css/main.49ec3718.css.map",
+    "main.3bd414db.js.map": "/ivan-si/CommLabPortfolio/static/js/main.3bd414db.js.map",
+    "453.5626c062.chunk.js.map": "/ivan-si/CommLabPortfolio/static/js/453.5626c062.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ec3718.css",
+    "static/js/main.3bd414db.js"
+  ]
+}
