@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CommLabPortfolio/static/css/main.49ec3718.css",
-    "main.js": "/CommLabPortfolio/static/js/main.dbf23446.js",
+    "main.js": "/CommLabPortfolio/static/js/main.becec1e2.js",
     "static/js/453.5626c062.chunk.js": "/CommLabPortfolio/static/js/453.5626c062.chunk.js",
     "index.html": "/CommLabPortfolio/index.html",
     "main.49ec3718.css.map": "/CommLabPortfolio/static/css/main.49ec3718.css.map",
-    "main.dbf23446.js.map": "/CommLabPortfolio/static/js/main.dbf23446.js.map",
+    "main.becec1e2.js.map": "/CommLabPortfolio/static/js/main.becec1e2.js.map",
     "453.5626c062.chunk.js.map": "/CommLabPortfolio/static/js/453.5626c062.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49ec3718.css",
-    "static/js/main.dbf23446.js"
+    "static/js/main.becec1e2.js"
   ]
 }
